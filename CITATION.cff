@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use ChemML Mini-Lab notebooks or benchmarks in teaching or research, please cite this repository."
+type: software
+title: "ChemML Mini-Lab: Runnable Experiments in Physics-Informed ML & AI for Materials Discovery"
+abstract: "Compact, reproducible PyTorch and cheminformatics experiments illustrating out-of-distribution extrapolation, physical symmetries, equivariance, and data-efficient machine learning for chemistry and materials science."
+authors:
+  - family-names: "Mostaghimi"
+    given-names: "Amir"
+    affiliation: "University of Calgary"
+    email: "amir.b.mostaghimi@gmail.com"
+    orcid: "https://orcid.org/0000-0002-8084-9498"
+repository-code: "https://github.com/amir-b-mostaghimi/chem-ml-minilab"
+url: "https://amir-b-mostaghimi.github.io"
+keywords:
+  - "physics-informed machine learning"
+  - "out-of-distribution extrapolation"
+  - "translation equivariance"
+  - "computational chemistry"
+  - "materials informatics"
+  - "PyTorch"
+date-released: "2026-11-26"
